@@ -6,45 +6,38 @@ This work is based on the CampusX YouTube tutorial series on NumPy. I followed t
 
 🧠 Topics Covered
 🔹 Basics & Array Creation
-np.array, arange, linspace, zeros, ones, eye, full, copy
-
-Array properties: shape, ndim, dtype, astype, itemsize
+   # np.array, arange, linspace, zeros, ones, eye, full, copy
+   #  Array properties: shape, ndim, dtype, astype, itemsize
 
 🔹 Indexing & Iteration
-Basic and advanced slicing (1D, 2D)
-
-Boolean masking and conditions
-
-Iterating with np.nditer
+   #  Basic and advanced slicing (1D, 2D)
+  #  Boolean masking and conditions
+  #   Iteration using np.nditer
 
 🔹 Mathematical Operations
-Element-wise arithmetic
-
-Aggregations: min, max, sum, mean, median, std
-
-dot product and using axis
+#  Element-wise arithmetic
+ #  Aggregations: min, max, sum, mean, median, std
+  #  dot product and use of axis parameter
 
 🔹 Random Number Generation
-np.random.rand, randn, randint, seed, uniform
+ #   np.random.rand, randn, randint, seed, uniform
 
 🔹 Conditionals & Percentiles
-np.where, np.percentile
+   #  np.where
+   #  np.percentile
 
 🔹 Array Manipulation
-reshape, flatten, ravel, transpose
-
-Stacking: hstack, vstack
-
-Splitting: hsplit, vsplit
+   #  Reshaping and flattening: reshape, flatten, ravel, transpose
+  #   Stacking: hstack, vstack
+#   Splitting: hsplit, vsplit
 
 🔹 Miscellaneous Utilities
-Memory insights using import sys
-
-Performance timing using import time
-
-Simple plots using import matplotlib.pyplot as plt
+  #   Memory usage with import sys
+#   Timing code with import time
+#     Basic visualization with import matplotlib.pyplot as plt
 
 ✅ Summary
-Practiced all major NumPy functions with clean, working examples.
+ #  Practiced all major NumPy functions with clean, working examples.
+  #  Gained a deep understanding of how NumPy handles data, memory, and operations.
+  #   This repo serves as both a learning log and a quick reference guide for future work in data science and machine learning.
 
-Gained deep understanding of how NumPy handles data, memory, and operations.
